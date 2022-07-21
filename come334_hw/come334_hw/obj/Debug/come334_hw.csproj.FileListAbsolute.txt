@@ -1,0 +1,10 @@
+C:\Users\A\source\repos\come334_hw\come334_hw\bin\Debug\come334_hw.exe.config
+C:\Users\A\source\repos\come334_hw\come334_hw\bin\Debug\come334_hw.exe
+C:\Users\A\source\repos\come334_hw\come334_hw\bin\Debug\come334_hw.pdb
+C:\Users\A\source\repos\come334_hw\come334_hw\obj\Debug\come334_hw.csprojAssemblyReference.cache
+C:\Users\A\source\repos\come334_hw\come334_hw\obj\Debug\come334_hw.Form1.resources
+C:\Users\A\source\repos\come334_hw\come334_hw\obj\Debug\come334_hw.Properties.Resources.resources
+C:\Users\A\source\repos\come334_hw\come334_hw\obj\Debug\come334_hw.csproj.GenerateResource.cache
+C:\Users\A\source\repos\come334_hw\come334_hw\obj\Debug\come334_hw.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\come334_hw\come334_hw\obj\Debug\come334_hw.exe
+C:\Users\A\source\repos\come334_hw\come334_hw\obj\Debug\come334_hw.pdb
